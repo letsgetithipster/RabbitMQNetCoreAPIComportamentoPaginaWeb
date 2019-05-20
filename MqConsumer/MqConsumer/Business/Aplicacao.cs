@@ -39,7 +39,7 @@ namespace MqConsumer.Business
 
                         consumer.Received += (model, ea) =>
                         {
-                            var body = ea.Body;                           
+                            var body = ea.Body;
 
                             Comportamento comportamento = ComportamentoDeserializado(body);
                             GravaComportamento(comportamento);
