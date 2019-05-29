@@ -8,7 +8,7 @@ MqConsumer - Host da mensageria que, ao receber evento, adiciona as informaçõe
 
 Deverá ser executado o host da mensageria **MqConsumer**
 
-![](images/consumer_working.png)
+![](images/consumer_start.png)
 
 Na Web API, utilizando o caminho **api/Comportamento**, o POST deverá seguir a estrutura do objeto JSON:
 ![](images/json_post.png)
