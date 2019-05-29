@@ -8,7 +8,7 @@ MqConsumer - Host da mensageria que, ao receber evento, adiciona as informaçõe
 
 Deverá ser executado o host da mensageria **MqConsumer**
 
-![](images/consumer_start.png)
+![](images/consumer_working.png)
 
 Na Web API, utilizando o caminho **api/Comportamento**, o POST deverá seguir a estrutura do objeto JSON:
 ![](images/json_post.png)
@@ -21,7 +21,7 @@ Gravando os dados no banco de dados e no arquivo csv **C:\Comportamentos.csv**
 
 ## Meta
 
-Seu Nome – [LinkedIn](https://linkedin.com/in/guilherme-santos-it/) – guilherme.santos97@outlook.com.br
+Guilherme Santos – [LinkedIn](https://linkedin.com/in/guilherme-santos-it/) – guilherme.santos97@outlook.com.br
 
 [https://github.com/letsgetithipster/RabbitMQNetCoreAPIComportamentoPaginaWeb](https://github.com/letsgetithipster)
 
