@@ -1,6 +1,6 @@
-Create Database ViajaNetDB
+Create Database LogComportamentoPagina
 Go
-Use ViajaNetDB
+Use LogComportamentoPagina
 
 Create Table Comportamento(
 [Id] int Identity (1,1) Primary Key,
